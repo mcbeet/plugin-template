@@ -28,7 +28,7 @@ beet = ">=0.43.3"
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"
 black = "^21.10b0"
-isort = "^5.10.0"
+isort = "^5.10.1"
 python-semantic-release = "^7.19.2"
 mudkip = "^0.4.12"
 pytest-insta = "^0.1.10"
